@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer{
+  body{
+    @apply bg-gradient-to-br to-[#0e0112] via-[#0c0224] from-[#090a29]  m-2 p-2 text-stone-50;
+  }
+}
+
+*{
+  font-family: "Montserrat";
+}
