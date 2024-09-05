@@ -67,7 +67,7 @@ export default function Notes() {
         <>
             <div className="p-4 m-2">
                 <div className="h-fit m-5 w-auto block text-center justify-items-center text-4xl relative">
-                    <p className="font-bold text-teal-50">Notes App</p>
+                    <p className="font-semibold text-teal-50">Notes App</p>
                 </div>
 
                 <div className="w-1/3 min-w-80 h-3/4 mx-auto m-2 justify-center text-center rounded-xl p-3 border-2 border-slate-300 shadow-xl shadow-black backdrop-blur-md">
